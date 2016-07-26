@@ -27,6 +27,7 @@ It also serves to help project contributors and new starters understand the deve
 ## Code Standards
 
 * [JavaScript](http://jscode.org/929a08)
+* [SASS](linters/.sass-lint.yml)
 
 ## Git and GitHub
 
