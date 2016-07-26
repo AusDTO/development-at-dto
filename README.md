@@ -31,6 +31,7 @@ It also serves to help project contributors and new starters understand the deve
 ## Git and GitHub
 
 * [Git Guidelines](github/git.md)
+* [GitHub templates](github/)
 
 ## Contributing
 
