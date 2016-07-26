@@ -36,4 +36,4 @@ It also serves to help project contributors and new starters understand the deve
 
 ## Contributing
 
-[Open an issue](https://github.com/AusDTO/development-at-dto/issues/new) to discuss changes or additions.
+[Open an issue](https://github.com/AusDTO/development-at-dto/issues/new) to discuss changes or additions. We encourage you to read our [Code of Conduct](CODE_OF_CONDUCT.md).
