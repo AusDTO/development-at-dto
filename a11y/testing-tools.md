@@ -1,4 +1,4 @@
-# Integrated tools for unit accessibility testing
+# Integrated tools for accessibility testing
 
 ## Table of contents
 
