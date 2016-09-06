@@ -11,7 +11,10 @@
 
 ## Tools
 
-**Note:** Unless otherwise stated, all tools are open source.
+- Unless otherwise stated, all tools are open source
+- For even more tools, see the W3C's [Web Accessibility Evaluation Tools List](13)
+
+--
 
 - [a11y - Web accessibility audits powered by the Chrome Accessibility Developer Tools](2)
   - Node package than you can easily build into Gulp/Grunt (+ many other build processes) for automated accessibility testing every time the project is updated.
@@ -47,3 +50,4 @@
 [10]: https://github.com/angular/protractor-accessibility-plugin
 [11]: https://tenon.io/
 [12]: https://tenon.io/documentation/what-tenon-tests.php
+[13]: https://www.w3.org/WAI/ER/tools/
