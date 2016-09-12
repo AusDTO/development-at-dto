@@ -8,6 +8,7 @@ In capturing all of this knowledge, we have this approach to structuring our kno
 * How we work and how we'll succeed
 * Getting started on your first day
 * Making the most of your DTO working experience
+* Tools that we use
 
 Ultimately, this is a tech community-driven product to celebrate and show case how well we work together.
 
