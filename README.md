@@ -21,6 +21,7 @@ It also serves to help project contributors and new starters understand the deve
 - [ ] Standards for more languages used at DTO
 - [ ] Devops practices and process
 - [ ] Testing & QA
+- [ ] Official [comment headers](github/templates/COMMENT_HEADER_TEMPLATE.md) and [licenses](github/templates/LICENSES.md) to be included in every repository
 - [ ] Prototyping tools and
 - [ ] More?
 
