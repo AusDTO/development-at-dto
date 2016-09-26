@@ -8,6 +8,7 @@ Tools, guidelines and info about being a developer at DTO
 1. [What's missing?](#what-missing)
 1. [Code Standards](#code-standards)
 1. [Git and GitHub](#git-and-gitHub)
+1. [Accessibility](#accessibility)
 1. [Contributing](#contributing)
 
 ### What is this?
@@ -33,6 +34,10 @@ It also serves to help project contributors and new starters understand the deve
 
 * [Git Guidelines](github/git.md)
 * [GitHub templates](github/)
+
+## Accessibility
+
+* [Testing tools](a11y/testing-tools.md)
 
 ## Contributing
 
